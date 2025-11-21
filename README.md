@@ -71,6 +71,7 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
 ![VueJs](https://img.shields.io/badge/VueJs-61DAFB?style=flat-square&logo=vuedotjs&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black)
 
 ---
 
