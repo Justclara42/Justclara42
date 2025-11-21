@@ -38,6 +38,7 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![CakePhp](https://img.shields.io/badge/CakePhp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -71,7 +72,7 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
 ![VueJs](https://img.shields.io/badge/VueJs-61DAFB?style=flat-square&logo=vuedotjs&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
