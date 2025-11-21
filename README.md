@@ -68,6 +68,7 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
 
 ---
 
