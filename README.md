@@ -69,7 +69,7 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
-![VueJs](https://img.shields.io/badge/VueJs-61DAFB?style=flat-square&logo=vuejs&logoColor=black)
+![VueJs](https://img.shields.io/badge/VueJs-61DAFB?style=flat-square&logo=vuedotjs&logoColor=black)
 
 ---
 
