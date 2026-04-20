@@ -2,7 +2,7 @@
 
 # 👋 Clara Holderbaum
 
-### Développeuse Web & Mobile
+### Développeuse Web & Mobile | Full Stack Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-holderbaum-05821645/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1382743162375639182)
@@ -70,8 +70,8 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
-![VueJs](https://img.shields.io/badge/VueJs-61DAFB?style=flat-square&logo=vuedotjs&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VueJs](https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
@@ -80,11 +80,9 @@ Je travaille principalement sur **macOS** et **Linux**, avec une bonne connaissa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justclara42&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=64748b&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justclara42&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=64748b&bg_color=00000000&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justclara42&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Justclara42&theme=transparent&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=64748b&sideLabels=6366f1&background=00000000)
 
 </div>
 
@@ -103,9 +101,17 @@ Diverses applications web développées en autodidacte, incluant des systèmes d
 
 ---
 
+## 🎓 Formation & Certifications
+
+- **DWWM** (Développeur Web et Web Mobile) - M2i Lyon
+- **Parcours autodidacte** en développement web et mobile
+- **Apprentissage continu** des technologies émergentes
+
+---
+
 ## 📫 Me contacter
 
-Je suis ouverte aux opportunités, collaborations et échanges autour du développement !
+Je suis ouverte aux opportunités, collaborations et échanges autour du développement ! 🚀
 
 <div align="center">
 
